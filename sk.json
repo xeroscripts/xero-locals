@@ -1,0 +1,16 @@
+{
+    "reject_title": "Pripojenie odmietnuté",
+
+    "vpn": "Používaš VPN",
+    "vpn_disable": "Vypni ju, aby si sa mohol pripojiť na tento server!",
+
+    "ban_expires": "Tento ban je permanentný!",
+    "ban_rejection": "Dostal si ban na tomto serveri!",
+    "ban_global_rejection": "Dostal si globálny ban od Xeroshieldu!",
+
+    "ban": "Dostal si ban na tomto serveri! Skús sa pripojiť znova pre viac informácií!\nBanID: %s",
+    "ban_global": "Dostal si globálny ban! Skús sa pripojiť znova pre viac informácií!\nBanID: %s",
+
+    "reason": "Dôvod",
+    "banid": "Ban ID"
+}

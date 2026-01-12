@@ -1,0 +1,16 @@
+{
+    "reject_title": "Kapcsolat elutasítva",
+
+    "vpn": "VPN-t használsz",
+    "vpn_disable": "Kapcsold ki a VPN-t, hogy tudj csatlakozni a szerverhez!",
+
+    "ban_expires": "Ez a kitiltás soha nem jár le!",
+    "ban_rejection": "Ki lettél tiltva erről a szerverről!",
+    "ban_global_rejection": "Globálisan ki lettél tiltva a XeroShield által!",
+
+    "ban": "Kitiltást kaptál erről a szerverről! Csatlakozz újra további infóért!\nBanID: %s",
+    "ban_global": "Globális kitiltást kaptál! Csatlakozz újra további infóért!\nBanID: %s",
+
+    "reason": "Indok",
+    "banid": "Ban ID"
+}

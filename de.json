@@ -1,0 +1,16 @@
+{
+    "reject_title": "Verbindung Abgelehnt",
+
+    "vpn": "Du benutzt eine VPN",
+    "vpn_disable": "Bitte deaktiviere diese um dem Server joinen zu können!",
+
+    "ban_expires": "Dieser Ban läuft niemals ab!",
+    "ban_rejection": "Du wurdest von diesem Server gebannt!",
+    "ban_global_rejection": "Du wurdest Global von XeroShield gebannt!",
+
+    "ban": "Du wurdest von diesem Server gebannt! Verbinde dich erneut für mehr Informationen!\nBanID: %s",
+    "ban_global": "Du wurdest von Global gebannt! Verbinde dich erneut für mehr Informationen!\nBanID: %s",
+
+    "reason": "Grund",
+    "banid": "Bann ID"
+}

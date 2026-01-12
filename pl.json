@@ -1,0 +1,16 @@
+{
+    "reject_title": "Połączenie odrzucone",
+
+    "vpn": "Używasz VPN",
+    "vpn_disable": "Proszę wyłącz ją, aby móc połączyć się z tym serwerem!",
+
+    "ban_expires": "To jest permanentny ban",
+    "ban_rejection": "Zostałeś zbanowany na tym serwerze!",
+    "ban_global_rejection": "Zostałeś globalnie zbanowany przez system Xeroshield!",
+
+    "ban": "Zostałeś zbanowany na tym serwerze! Połącz się ponownie, aby uzyskać więcej informacji!\nBanID: %s",
+    "ban_global": "Zostałeś globalnie zbanowany! Połącz się ponownie, aby uzyskać więcej informacji!\nBanID: %s",
+
+    "reason": "Powód",
+    "banid": "Ban ID"
+}

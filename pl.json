@@ -6,7 +6,7 @@
 
     "ban_expires": "To jest permanentny ban",
     "ban_rejection": "Zostałeś zbanowany na tym serwerze!",
-    "ban_global_rejection": "Zostałeś globalnie zbanowany przez system Xeroshield!",
+    "ban_global_rejection": "Zostałeś globalnie zbanowany przez system XeroShield!",
 
     "ban": "Zostałeś zbanowany na tym serwerze! Połącz się ponownie, aby uzyskać więcej informacji!\nBanID: %s",
     "ban_global": "Zostałeś globalnie zbanowany! Połącz się ponownie, aby uzyskać więcej informacji!\nBanID: %s",

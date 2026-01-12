@@ -6,7 +6,7 @@
 
     "ban_expires": "Tento ban je permanentní!",
     "ban_rejection": "Dostal jsi ban na tomto serveru!",
-    "ban_global_rejection": "Dostal jsi globální ban od Xeroshieldu!",
+    "ban_global_rejection": "Dostal jsi globální ban od XeroShieldu!",
 
     "ban": "Dostal jsi ban na tomto serveru! Zkus se připojit znovu pro více informací!\nBanID: %s",
     "ban_global": "Dostal jsi globální ban! Zkus se připojit znovu pro více informací!\nBanID: %s",

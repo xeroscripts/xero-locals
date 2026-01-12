@@ -6,7 +6,7 @@
 
     "ban_expires": "This ban never expires!",
     "ban_rejection": "You have been banned from this server!",
-    "ban_global_rejection": "You have been globally banned from Xeroshield!",
+    "ban_global_rejection": "You have been globally banned from XeroShield!",
 
     "ban": "You have been banned from this server! Join again for more information!\nBanID: %s",
     "ban_global": "You have been globally banned! Join again for more information!\nBanID: %s",

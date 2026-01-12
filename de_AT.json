@@ -1,0 +1,16 @@
+{
+  "reject_title": "Verbindung abglehnt",
+
+  "vpn": "Du bist über a VPN drin",
+  "vpn_disable": "Schalt’s aus, damitst am Server joinen kannst!",
+
+  "ban_expires": "De Sperr lauft nie aus!",
+  "ban_rejection": "Du bist von dem Server g’sperrt!",
+  "ban_global_rejection": "Du bist weltweit von XeroShield g’sperrt!",
+
+  "ban": "Du bist von dem Server g’sperrt! Join no amoi, dann siechst mehr Infos!\nBanID: %s",
+  "ban_global": "Du bist weltweit g’sperrt! Join no amoi, dann siechst mehr Infos!\nBanID: %s",
+
+  "reason": "Grund",
+  "banid": "Ban-ID"
+}

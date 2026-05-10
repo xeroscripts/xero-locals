@@ -11,6 +11,7 @@
     "ban": "Tu as été banni de ce serveur ! Reconnecte-toi pour plus de détails !\nBanID: %s",
     "ban_global": "Tu as reçu un ban global ! Reconnecte-toi pour plus de détails !\nBanID: %s",
 
+    "hidden": "Caché",
     "reason": "Raison",
     "banid": "ID du ban"
 }

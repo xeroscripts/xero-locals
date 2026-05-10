@@ -11,6 +11,7 @@
     "ban": "Dostal jsi ban na tomto serveru! Zkus se připojit znovu pro více informací!\nBanID: %s",
     "ban_global": "Dostal jsi globální ban! Zkus se připojit znovu pro více informací!\nBanID: %s",
 
+    "hidden": "Skryté",
     "reason": "Důvod",
     "banid": "Ban ID"
 }

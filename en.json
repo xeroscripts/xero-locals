@@ -11,6 +11,7 @@
     "ban": "You have been banned from this server! Join again for more information!\nBanID: %s",
     "ban_global": "You have been globally banned! Join again for more information!\nBanID: %s",
 
+    "hidden": "Hidden",
     "reason": "Reason",
     "banid": "Ban ID"
 }

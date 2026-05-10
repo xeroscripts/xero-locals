@@ -1,0 +1,17 @@
+{
+    "reject_title": "Conexión rechazada",
+
+    "vpn": "Tienes una VPN activa",
+    "vpn_disable": "Desactívala para poder entrar en este servidor.",
+
+    "ban_expires": "¡Este ban nunca expira!",
+    "ban_rejection": "¡Has sido baneado de este servidor!",
+    "ban_global_rejection": "¡Has recibido un ban global de XeroShield!",
+
+    "ban": "¡Has sido baneado de este servidor! Vuelve a conectarte para más información.\nBanID: %s",
+    "ban_global": "¡Has recibido un ban global! Vuelve a conectarte para más información.\nBanID: %s",
+
+    "hidden": "Oculto",
+    "reason": "Motivo",
+    "banid": "ID del ban"
+}

@@ -11,6 +11,7 @@
     "ban": "Kitiltást kaptál erről a szerverről! Csatlakozz újra további infóért!\nBanID: %s",
     "ban_global": "Globális kitiltást kaptál! Csatlakozz újra további infóért!\nBanID: %s",
 
+    "hidden": "Elrejtve",
     "reason": "Indok",
     "banid": "Ban ID"
 }

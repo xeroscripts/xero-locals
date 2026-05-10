@@ -11,6 +11,7 @@
     "ban": "Du wurdest von diesem Server gebannt! Verbinde dich erneut für mehr Informationen!\nBanID: %s",
     "ban_global": "Du wurdest von Global gebannt! Verbinde dich erneut für mehr Informationen!\nBanID: %s",
 
+    "hidden": "Versteckt",
     "reason": "Grund",
     "banid": "Bann ID"
 }

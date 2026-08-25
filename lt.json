@@ -2,16 +2,16 @@
     "reject_title": "Ryšys atmestas",
 
     "vpn": "Jūs naudojate VPN",
-    "vpn_disable": "Prašome jį išjungti, kad galėtumėte prisijungti prie šio serverio!",
+    "vpn_disable": "Išjunkite VPN, kad galėtumėte prisijungti prie šio serverio!",
 
-    "ban_expires": "Šis užblokavimas niekada nesibaigia!",
-    "ban_rejection": "Jūs buvote užblokuotas šiame serveryje!",
-    "ban_global_rejection": "Jūs buvote visuotinai užblokuotas „XeroShield“!",
+    "ban_expires": "Šis draudimas niekada nesibaigia!",
+    "ban_rejection": "Jums buvo uždrausta prieiga prie šio serverio!",
+    "ban_global_rejection": "Jums buvo pritaikytas visuotinis „XeroShield“ draudimas!",
 
-    "ban": "Jūs buvote užblokuotas šiame serveryje! Prisijunkite dar kartą, kad gautumėte daugiau informacijos!\nBanID: %s",
-    "ban_global": "Jūs buvote visuotinai užblokuotas! Prisijunkite dar kartą, kad gautumėte daugiau informacijos!\nBanID: %s",
+    "ban": "Gavote draudimą šiame serveryje! Prisijunkite dar kartą dėl papildomos informacijos!\nBan ID: %s",
+    "ban_global": "Gavote visuotinį draudimą! Prisijunkite dar kartą dėl papildomos informacijos!\nBan ID: %s",
 
     "hidden": "Paslėpta",
     "reason": "Priežastis",
-    "banid": "Užblokavimo ID"
+    "banid": "Ban ID"
 }

@@ -12,6 +12,8 @@
     "ban_global": "Globális kitiltást kaptál! Csatlakozz újra további infóért!\nBanID: %s",
 
     "hidden": "Elrejtve",
+    "kick": "Ki lettél rúgva erről a szerverről!\nKickID: %s",
+    "description_label": "Leírás",
     "reason": "Indok",
     "banid": "Ban ID"
 }

@@ -12,6 +12,8 @@
   "ban_global": "Du bist weltweit g’sperrt! Join no amoi, dann siechst mehr Infos!\nBanID: %s",
 
   "hidden": "Versteckt",
+  "kick": "Du bist von dem Server rausg’haut worden!\nKickID: %s",
+  "description_label": "Beschreibung",
   "reason": "Grund",
   "banid": "Ban-ID"
 }

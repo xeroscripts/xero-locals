@@ -12,6 +12,8 @@
     "ban_global": "Jums pritaikytas visuotinis blokavimas! Prisijunkite dar kartą, kad gautumėte daugiau informacijos!\nBlokavimo ID: %s",
 
     "hidden": "Paslėpta",
+    "kick": "Buvote išmestas iš šio serverio!\nIšmetimo ID: %s",
+    "description_label": "Aprašymas",
     "reason": "Priežastis",
     "banid": "Blokavimo ID"
 }

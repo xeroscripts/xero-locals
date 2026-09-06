@@ -12,6 +12,8 @@
     "ban_global": "Dostal jsi globální ban! Zkus se připojit znovu pro více informací!\nBanID: %s",
 
     "hidden": "Skryté",
+    "kick": "Byl jsi vyhozen z tohoto serveru!\nKickID: %s",
+    "description_label": "Popis",
     "reason": "Důvod",
     "banid": "Ban ID"
 }

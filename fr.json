@@ -12,6 +12,8 @@
     "ban_global": "Tu as reçu un ban global ! Reconnecte-toi pour plus de détails !\nBanID: %s",
 
     "hidden": "Caché",
+    "kick": "Tu as été expulsé de ce serveur !\nID d’expulsion : %s",
+    "description_label": "Description",
     "reason": "Raison",
     "banid": "ID du ban"
 }
